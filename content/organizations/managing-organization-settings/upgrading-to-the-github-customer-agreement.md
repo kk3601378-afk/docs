@@ -1,3 +1,4 @@
+
 ---
 title: Upgrading to the GitHub Customer Agreement
 intro: Organizations can upgrade from the Standard Terms of Service to the {% data variables.product.company_short %} Customer Agreement.
